@@ -1,0 +1,1 @@
+This code truns input into lower case
